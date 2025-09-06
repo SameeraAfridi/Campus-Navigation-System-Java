@@ -1,4 +1,4 @@
-# 🧭 Campus Navigation System in Java
+#  Campus Navigation System in Java
 
 This is a console-based **Campus Navigation System** built using **Java**. It helps users find the shortest walking path between various buildings and landmarks inside the **HITEC University** campus using **Dijkstra's Algorithm**.
 
